@@ -1,0 +1,3 @@
+model,R2,RMSE (BDT)
+Linear Regression,0.881,79.57
+Random Forest,0.925,63.15

@@ -1,0 +1,5 @@
+,distance_km,duration_min,fare_bdt,rating
+distance_km,1.0,0.82,0.84,-0.4
+duration_min,0.82,1.0,0.78,-0.51
+fare_bdt,0.84,0.78,1.0,-0.38
+rating,-0.4,-0.51,-0.38,1.0
